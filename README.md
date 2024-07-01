@@ -1,0 +1,1 @@
+# 404 klaidos kodo pavyzdys su labirinto paveiksliuku
