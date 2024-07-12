@@ -13,7 +13,7 @@ main > div:nth-child(1) {
     width: 100%; 
     background-color:white; 
     margin-top: 20px;}
-main > div:nth-child(1) > main > div:nth-child(1)  {
+main > div:nth-child(1) > div:nth-child(1)  {
     margin-right: 20px; 
     float: right;}
 main > div:nth-child(2) {
