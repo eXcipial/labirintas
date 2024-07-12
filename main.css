@@ -43,7 +43,8 @@ a {
     border-style: solid; 
     border-color: green; 
     padding: 5px 15px; 
-    text-decoration: none;}
+    text-decoration: none;
+    width: 130px;}
 p {
     font-size: 17px; 
     margin-top: 10%; 
